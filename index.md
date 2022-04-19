@@ -1,5 +1,5 @@
 ## Welcome to my Page
-<img src = "profile-img.jpeg">
+<img src = "profile-img.jpeg" height = 300, width = 200 style="vertical-align:middle">
 
 **Anup Kumar Ghosh**
 - Email 
@@ -20,12 +20,12 @@ Therefore I have learned the following technologies for this purpose,
 - Oracle DB.
 
 ## Working Experience
-Associate Consultant at Sonali Intellect Ltd. in Dhaka, Bangladesh.
-Time:04/2018 - 09/2019
-Junior Consultant at Sonali Intellect Ltd. in Dhaka, Bangladesh.
-Time:12/2014 - 03/2018
-
-I have started work for this company as a Engineering trainee and ended up with the Associate consultant position. During service I have done database migration: SQLServer to Oracle and Software maintenance. For database migration I had done data cleaning and preparing using SQL, PL/SQL and MS Excel. As well as to mantenance the CBS I have worked with Java to solve the live issue and develop new module.
+- Data Science and Machine Learning Traine at Integrify in Helsinki, Finland (Remote)<br>
+    - Period:From 03/2022
+- Associate Consultant at Sonali Intellect Ltd. in Dhaka, Bangladesh.<br>
+    - Period:04/2018 - 09/2019<br>
+- Junior Consultant at Sonali Intellect Ltd. in Dhaka, Bangladesh.<br>
+    - Period:12/2014 - 03/2018<br>
 
 
 ## My Hobbies
