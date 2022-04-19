@@ -1,4 +1,4 @@
-<img src = "profile-img.jpeg" height = 150, width = 120>
+<img src = "profile-img.jpeg" height = 200 width = 190>
 
 **Anup Kumar Ghosh**
 - Email 
