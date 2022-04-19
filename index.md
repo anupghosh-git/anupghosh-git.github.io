@@ -1,5 +1,4 @@
-
-<img src = "profile-img.jpeg" height = 150, width = 120, style="vertical-align:middle">
+<img src = "profile-img.jpeg" height = 150, width = 120>
 
 **Anup Kumar Ghosh**
 - Email 
